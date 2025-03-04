@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "JavaAIDLNDK"
 include ':app'
+include ':client'
