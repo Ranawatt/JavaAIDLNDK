@@ -1,4 +1,4 @@
-                                                              AIDL & NDK Examples
+                                                      AIDL & NDK Examples
 
 AIDL, which stands for Android Interface Definition Language, is a language used in Android for defining interfaces that enable inter-process communication (IPC). In the context of Java, AIDL facilitates communication between different components of an Android application, or even between different applications, when they are running in separate processes.
 Here's how AIDL relates to Java in Android development:
